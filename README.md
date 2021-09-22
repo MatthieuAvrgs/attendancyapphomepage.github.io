@@ -10,8 +10,11 @@ This application suits for many kind of use:
 
 # Functionalities
 ➕ Add members to your group
+
 ✋ Take attendance
+
 📈 Manage and visualize statistics by event / member
+
 🔝Export and share statistics
 
 # User data
